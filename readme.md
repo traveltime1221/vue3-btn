@@ -1,4 +1,4 @@
-# vue3-btn
+# vue3-custome-btn
 
 這是一個 Vue.js 按鈕元件，內建載入中的旋轉圖示與可自訂的圖示設計。
 透過 spinner 狀態自動在載入圖示與按鈕標籤/圖示之間切換，提供流暢的使用者體驗。
@@ -21,14 +21,14 @@ node: ">=12.0.0"
 ```
 ### 安裝方式
 ```
-npm install vue3-btn
+npm install vue3-custome-btn
 ```
 
 ### 解決安裝衝突
 如果專案包含 ESLint，安裝本套件時可能會遇到依賴衝突。
 可使用以下方法進行安裝處理：
 ```
-npm install vue3-btn --legacy-peer-deps
+npm install vue3-custome-btn --legacy-peer-deps
 ```
 ### vue2版本
 如果想要安裝vue2版本可前往：
@@ -38,7 +38,7 @@ npm install vue3-btn --legacy-peer-deps
 ```
 <script setup lang="ts">
 import 'font-awesome/css/font-awesome.min.css'; // 用於模擬Icon呈現
-import Button from 'vue3-btn'
+import Button from 'vue3-custome-btn'
 import { ref } from 'vue'
 
 // 模擬按鈕過渡變化
