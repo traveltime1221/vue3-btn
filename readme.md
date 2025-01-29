@@ -10,7 +10,7 @@
 * 平滑過渡：內建 CSS 過渡效果，提供精緻的 UI 互動感受。
 * 此元件非常適合用於需要載入回饋的操作，例如表單提交或 API 呼叫。
 
-![範例](https://github.com/traveltime1221/vue2-btn/raw/main/src/assets/image/example.gif)
+![範例](https://github.com/traveltime1221/vue3-btn/raw/main/src/assets/image/example.gif)
 
 ## 安裝
 
