@@ -10,7 +10,7 @@
 * 平滑過渡：內建 CSS 過渡效果，提供精緻的 UI 互動感受。
 * 此元件非常適合用於需要載入回饋的操作，例如表單提交或 API 呼叫。
 
-![範例](https://github.com/traveltime1221/vue3-btn/raw/main/src/assets/images/example.gif)
+![範例](https://github.com/traveltime1221/vue3-btn/raw/main/src/assets/image/example.gif)
 
 ## 安裝
 
@@ -19,7 +19,6 @@
 vue: ">=3.5.13"
 node: ">=12.0.0"
 ```
-
 ### 安裝方式
 ```
 npm install vue3-btn
@@ -31,7 +30,9 @@ npm install vue3-btn
 ```
 npm install vue3-btn --legacy-peer-deps
 ```
-
+### vue2版本
+如果想要安裝vue2版本可前往：
+[vue2-btn](https://www.npmjs.com/package/vue2-btn)
 
 ## 使用方式
 ```
