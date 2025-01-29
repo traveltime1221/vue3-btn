@@ -1,12 +1,12 @@
 {
-  "name": "vue3-btn",
+  "name": "vue3-custome-btn",
   "version": "1.0.0",
-  "main": "dist/vue3-btn.cjs.js",
-  "module": "dist/vue3-btn.es.js",
-  "types": "dist/vue3-btn.d.ts",
+  "main": "dist/vue3-custome-btn.cjs.js",
+  "module": "dist/vue3-custome-btn.es.js",
+  "types": "dist/vue3-custome-btn.d.ts",
   "exports": {
-    "import": "./dist/vue3-btn.es.js",
-    "require": "./dist/vue3-btn.cjs.js"
+    "import": "./dist/vue3-custome-btn.es.js",
+    "require": "./dist/vue3-custome-btn.cjs.js"
   },
   "files": [
     "dist"
@@ -15,7 +15,19 @@
     "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "btn",
+    "button",
+    "custome",
+    "component",
+    "vite",
+    "vue",
+    "vue3"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/traveltime1221/vue3-btn.git"
+  },
   "author": "",
   "license": "ISC",
   "description": "",

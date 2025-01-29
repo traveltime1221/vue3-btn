@@ -8,8 +8,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: path.resolve(__dirname, 'src/components/index.ts'), // 改成 index.ts
-      name: 'vue3Btn',
-      fileName: (format) => `vue3-btn.${format}.js`,
+      name: 'vue3CustomeBtn',
+      fileName: (format) => `vue3-custome-btn.${format}.js`,
       formats: ['es', 'umd', 'cjs'] // 確保支援不同格式
     },
     rollupOptions: {
